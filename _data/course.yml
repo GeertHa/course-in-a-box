@@ -1,6 +1,6 @@
 title: "Computer and Networking"
 description: An introduction to computer architecture, operating systems and networking
-modules: [Start, Computer Architecture, Operating systems, Networking, Feedback, References]
+modules: [Start, Computer_architecture, Operating systems, Networking, Feedback, References]
 signups:
  - name: Geert Hofman
    image: https://media.licdn.com/media/p/3/000/1b0/2c9/2daad0c.jpg
