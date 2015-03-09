@@ -5,6 +5,7 @@ title: Waarover gaat deze cursus en hoe past hij in het NMCT profiel?
 ## Waarover gaat deze cursus?
 
 ![Sample of computers]({{site.baseurl}}/img/computers.png)
+Image [CC-BY-NC-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [Pablo Ruiz Múzquiz](https://www.flickr.com/photos/angelaypablo/860181962) on Flickr.
 
 In deze inleidende cursus uit de infrastructuurpeiler van de opleiding New Media and Communication Technology komen alle belangrijke componenten aan bod die later in vervolgcursussen (Networktechnology, Advanced Networktechnology, Datacenter Technology, Datacommunication, ...) worden uitgediept.
 
@@ -16,15 +17,7 @@ Een computer komt tegenwoordig in vele vormen en maten voor. Je hebt niet alleen
 
 Normaal moet je voor deze cursus inschrijven. In de huidige fase zijn we echter volop aan het experimenteren met het publiek aanbieden van de inhouden van onze cursussen en stellen we deze dus voorlopig volledig vrij ter beschikking. De externe platformen die we zullen gebruiken voor discussies, het co-creëren van vragen over de cursusinhoud en het indienen van opdrachten zullen wel een account vergen. Volg de instructies op deze sites om deel te nemen aan de diverse activiteiten die integraal deel uitmaken van deze cursus.
 
-{% comment %}
-## You promised me my own course! Where is it?
 
-It's all in the box, promise! But you need to unpack it first :) Go on, take it out of [the box]({{site.baseurl}}/modules/start/the-box/)!
-{% endcomment %}
-
-![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
-
-Image [CC-BY-NC-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [Pablo Ruiz Múzquiz](https://www.flickr.com/photos/angelaypablo/860181962) on Flickr.
 
 
 
