@@ -1,16 +1,20 @@
 ---
-title: How will this course work?
+title: Waarover gaat deze cursus en hoe past hij in het NMCT profiel?
 ---
 
-## How will this course work?
+## Waarover gaat deze cursus?
 
-![Image of course workflow]({{site.baseurl}}/img/process.png)
+![Sample of computers]({{site.baseurl}}/img/computers.png)
 
-During the next 4 weeks we will discuss the 4 different modules in this course - **community**, **learning**, **content** and **feedback**. Every week there will be some preparation, hands-on projects and a discussion for feedback and sharing to help you build your course!
+In deze inleidende cursus uit de infrastructuurpeiler van de opleiding New Media and Communication Technology komen alle belangrijke componenten aan bod die later in vervolgcursussen (Networktechnology, Advanced Networktechnology, Datacenter Technology, Datacommunication, ...) worden uitgediept.
 
-## How do I sign up and take this course?
+Een computer komt tegenwoordig in vele vormen en maten voor. Je hebt niet alleen de klassieke desktop PC en hun meer mobiele broeders de laptops, er zijn ook de vele servers die onze data bevatten en samen vaak deel uitmaken van wat omschreven wordt als de cloud. Uiteraard is er daarnaast ook alle mobiele apparatuur zoals smartphones en tablets die de andere zijde van de cloud uitmaken samen met de vaak gehypte maar nog nooit doorgebroken thin clients. Maar ook daar houdt het nog niet op. Als we alle ingebouwde computers, of de educatieve verwanten zoals de Raspberry Pi al of niet in combinatie met een Arduino of ander goedkoop educatief bordje, zouden meerekenen, dan kan je wel zeggen dat onze wereld een door computers omringde wereld is. Het is deze wereld die we gaan verkennen in deze cursus. Onderstaande video geeft je alvast een duidelijk beeld van hoe belangrijk computers in onze huidige maatschappij reeds zijn, maar vooral ook hoe veel belangrijker ze nog zullen worden in de toekomst.
 
-Normally this is where we tell you to fill in a form and wait for us, but we're not going to do that. You can 'sign up' to this course by **taking your course out of the box** [here]({{site.baseurl}}/modules/start/the-box/) and start learning.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cXQrbxD9_Ng" frameborder="0" allowfullscreen></iframe>
+
+## Moet ik mij inschrijven voor deze cursus?
+
+Normaal moet je voor deze cursus inschrijven. In de huidige fase zijn we echter volop aan het experimenteren met het publiek aanbieden van de inhouden van onze cursussen en stellen we deze dus voorlopig volledig vrij ter beschikking. De externe platformen die we zullen gebruiken voor discussies, het co-creëren van vragen over de cursusinhoud en het indienen van opdrachten zullen wel een account vergen. Volg de instructies op deze sites om deel te nemen aan de diverse activiteiten die integraal deel uitmaken van deze cursus.
 
 {% comment %}
 ## You promised me my own course! Where is it?
@@ -20,7 +24,7 @@ It's all in the box, promise! But you need to unpack it first :) Go on, take it 
 
 ![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
 
-Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
+Image [CC-BY-NC-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [Pablo Ruiz Múzquiz](https://www.flickr.com/photos/angelaypablo/860181962) on Flickr.
 
 
 
