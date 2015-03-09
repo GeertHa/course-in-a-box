@@ -3,7 +3,7 @@ title: Waarover gaat deze cursus?
 ---
 
 ## Hoe past deze cursus binnen de professionele bachelor NMCT?
-
+![Logo]({{site.baseurl}}/img/nmct-exp-cl.png)
 In deze inleidende cursus uit de infrastructuurpeiler van de opleiding New Media and Communication Technology komen alle belangrijke componenten aan bod die later in vervolgcursussen (Networktechnology, Advanced Networktechnology, Datacenter Technology, Datacommunication, ...) worden uitgediept.
 
 ## Waarover gaat deze cursus?
