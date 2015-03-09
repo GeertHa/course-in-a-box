@@ -1,56 +1,35 @@
 ---
-title: Your own course!
+title: Benodigdheden
 ---
 
-## Taking your course out of the box
+## Wat heb je nodig?
 
-You're going to be building your course in GitHub. GitHub is web-based repository hosting service, which allows you to manage your code, and see revisions you've made via a good-looking, easy-to-use web interface. It's newbie-friendly, and a great collaboration tool, which is why we're using it for Course in a Box.
+Door de diversiteit van de vaardigheden en kennis die je moet opdoen voor deze cursus, zijn er een aantal zaken die je op je laptop permanent beschikbaar moet hebben.
 
-The flagship functionality of GitHub is “forking” – copying a repository from one users account to another. This is what we will do with this repository of content. By forking repository you will copy the Course in a Box content from our repository, and modify it under your own account and then publish with your own link to it.
+### Studiemateriaal
 
-Your course will live on GitHub (so you don't need to worry about hosting) and you'll do all the building work there, but you'll be able to view it as a web page.
+Een eerste categorie benodigheden kunnen we classificeren onder studiemateriaal:
 
-So let's get started:
+* cursus PC fundamentals van Johan De Gelas
+* slides bij besturingssystemen
+* slides bij netwerken
 
-1. <a class="btn btn-primary" href="https://github.com/p2pu/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Fork this repository on GitHub.</a></li> The first step in getting your course going is to fork the repository. Still not sure what a repository is, or how to fork it?  Have a look at the <a href="https://help.github.com/articles/github-glossary" >GitHib Glossary</a> for explanations of all of these terms. 
-2. Then, in the repository interface, find the file called <a class="btn btn-primary" href="https://github.com/p2pu/course-in-a-box/edit/gh-pages/_data/course.yml" target="_blank"><i class="fa fa-edit"></i> Edit _data/course.yml</a> and add your name, profile image and Twitter handle.
-3. Submit a pull request to get your changes merged into the main version of the course and have your mug show up in the gallery on the front page! Not sure how to submit a pull request? See the <a href="{{site.baseurl}}{% post_url 2000-01-02-github-cheatsheet %}">GitHub Cheatsheet</a>.
-4. <a class="btn btn-primary" target="_blank" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fhowto.p2pu.org&text=Create%20engaged%20learning%20communities%20that%20lasts&hashtags=courseinabox&via=p2pu&related=p2pu"><i class="fa fa-twitter"></i> Send a tweet</a> and spread the word about Course in a Box! (Not actually a required step, promise).
-5. <a class="btn btn-primary" target="_blank" href="http://community.p2pu.org/t/please-introduce-yourself/28"><i class="fa fa-weixin"></i> Introduce yourself</a> to the P2PU community. Tell us something about yourself and what you want to use Course in a Box for.
+### Externe online cursussen
 
-When we asked you to fork this course you actually copied this course and started building your own!
+Een tweede categorie zijn de externe online cursussen. Dit zijn 2 relatief praktische tracks die je basis vaardigheden bijbrengen rond de Microsoft Windows en Linux besturingsystemen. Elk van deze cursussen vereist registratie bij de respectievelijke providers. Hier vindt je de links naar de cursussen:
 
-This copy is where you will be working during the course. Some of the technical things may be challenging or frustrating, but by tackling it bit by bit and asking your peers for help, you’ll soon be an expert and helping other people!
+* Microsoft Virtual Academy (Links naar een externe site.)
+* Edx - Introduction to Linux (Links naar een externe site.)
 
-<div id="ghUsername-intro">
-Below we will be doing some proper work on GitHub. We hope you won't mind telling us your username, so we can prepare some links and make things much easier for you. Don't worry, we are not storing any information about you on our servers. If you have JavaScript disabled for some reason, you will need to replace 'your-github-username' with your GitHub username where you see links containing 'your-github-username'
-</div>
+### Oefen- en zoeklabo's
 
-[your-github-username](https://github.com/your-github-username-set/course-in-a-box/)
+Een derde categorie zijn oefen -en zoeklabo's: er zijn 9 labo's beschikbaar die je vlot zou moeten kunnen uitvoeren als je de kennis hebt verzameld uit de theorie in combinatie met de kennis opgedaan in de online cursussen van Microsoft en Edx (Linux). Er is één praktische uitzondering hierin, namelijk het meten van het stroomverbruik en de spanning in een PC. Dat zullen we bij de tussentijdse evaluatie in week 4 bekijken in het labo zelf.
 
-### Tweak a few items.
-There are two updates that you need to make to your course to get it working. First, change
+### Software
 
-{% highlight yaml %}baseurl:{% endhighlight %}
+Tenslotte heb ook nog wat software nodig waarmee je je vertrouwd moet maken. Het gaat hier over de volgende pakketten:
 
-to
-
-{% highlight yaml %}baseurl: /course-in-a-box{% endhighlight %}
-
-in the file [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/_config.yml](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/_config.yml)
-
-Next, delete the file called CNAME [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/CNAME](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/CNAME)
-
-Now that you have a space to work, lets put a draft framework in place for your course.
-
-### Give your course a name.
-To update the title of your course, go to [https://github.com/your-github-username/course-in-a-box/blog/gh-pages/_data/course.yml](https://github.com/your-github-username/course-in-a-box/edit/gh-pages/_data/course.yml) and edit the file called `_data/course.yml`. You will see the title for this course there, change that to the name you decided on. Don't worry too much if you don't have the perfect name, you now know how to change the title for your course and you can update it at any time!
-
-{% highlight yaml %}title: "Course Title"{% endhighlight %}
-
-### Who is the course for & what will they learn?
-Will they be building something during the course. Put this basic information on the front page of the course to give a short overview of what to expect. To update the info on the front page, go to the file [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/index.markdown) and replace the text currently there to reflect what your course will be about. Once again, you can update it at any time and we will come back to this at a later stage.
-
-### Lets have a look at your course!
-
-You can view it by going to [https://your-github-username.github.io/course-in-a-box/](https://your-github-username.github.io/course-in-a-box/).
+* VMWare Workstation (Links naar een externe site.) voor virtualisatie van minstens 1 Linux machine
+* Ubuntu 14.04 (Links naar een externe site.) (of later) voor virtualisatie op je eigen laptop
+* Cisco PacketTracerIn een nieuw venster bekijken voor het simuleren van netwerken op je laptop
+* diverse software pakketten rond performance testing en analyse van de computer gebruikt in de labo's (zie labo 7)
